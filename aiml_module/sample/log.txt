@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "index.py", line 37, in <module>
+    app.run()
+  File "/home/jdwang/.local/lib/python2.7/site-packages/web/application.py", line 313, in run
+    return wsgi.runwsgi(self.wsgifunc(*middleware))
+  File "/home/jdwang/.local/lib/python2.7/site-packages/web/wsgi.py", line 54, in runwsgi
+    return httpserver.runsimple(func, validip(listget(sys.argv, 1, '')))
+  File "/home/jdwang/.local/lib/python2.7/site-packages/web/httpserver.py", line 157, in runsimple
+    server.start()
+  File "/home/jdwang/.local/lib/python2.7/site-packages/web/wsgiserver/__init__.py", line 1753, in start
+    raise socket.error(msg)
+socket.error: No socket could be created
+close failed in file object destructor:
+sys.excepthook is missing
+lost sys.stderr

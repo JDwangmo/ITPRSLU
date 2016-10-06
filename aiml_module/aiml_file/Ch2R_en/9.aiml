@@ -1,0 +1,918 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>我 知 道 了</pattern>
+
+<template>
+<random>
+<li>表态|附和|嗯嗯，那您要什么$的呢？</li>
+<li>表态|附和|嗯嗯，好的。那还有什么别的要求吗？</li>
+<li>表态|附和|好的，那再了解下再决定！</li>
+<li>表态|附和|哦哦，那您对哪方面有要求呢？</li>
+<li>表态|附和|不要这么“随便”哦！嘻嘻，开玩笑的。</li>
+<li>表态|附和|嗯嗯，您喜欢什么$的手机呢？我们要多了解才好推荐。</li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 错 了</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>所 以 我 才 这 样 做</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>所 以 我 才 来 晚 了</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>他 确 实 很 帅</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>她 确 实 很 漂 亮</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>他 确 实 令 人 讨 厌</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>他 确 实 挺 不 错 的</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>他 们 确 实 很 般 配</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>他 确 实 很 勤 奋</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 也 这 么 认 为 的</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>非 常 棒</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>真 的 好 漂 亮</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 说 的 真 好</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 里 确 实 很 大</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>貌 似 很 不 错 哦</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 刚 刚 的 话 让 我 受 益 匪 浅</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 刚 刚 讲 的 话 很 精 彩</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 真 厉 害</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>对 就 是 这 样</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哈 哈 哈</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>干 得 好</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>干 的 漂 亮</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>真 厉 害 啊</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 你 真 好</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 你 不 行 啊</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 你 说 的 这 样 做</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>真 的 该 这 样</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 说 得 对</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 该 这 样 做 的</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>本 来 就 是 这 样 嘛</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>么 么 哒</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 真 帅</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>6 6 6 6 6 6 6</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 愧 是 你</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>辛 苦 了</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 说 是 就 是 咯</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>听 你 的 话</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 这 样 的 吧</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 吧</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>呦 西</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>对 啊 对 啊</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 犀 利 啊</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 懂 了 好 厉 害</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>o k</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 的</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>为 什 么</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>怎 么 会</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>真 的 么</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>后 来 呢 怎 么 样 了</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 刚 刚 说 的 是 怎 么 回 事 啊</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 样 挺 好 的</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>鼓 掌 鼓 掌</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>万 岁 耶</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>真 的 么 怎 么 会 这 样 呢</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>真 的 么 好 好 玩 的 样 子</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哦 原 来 如 此</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 看 起 来 很 开 心 嘛</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 的 心 情 不 错 哦</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 的 状 态 非 常 饱 满 哦</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 刚 刚 让 我 大 吃 一 惊 说 得 太 好 了</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 是 没 有 你 都 不 知 道 怎 么 办 啊</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 你 在 真 好 啊</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 说 的 话 好 有 道 理 就 按 你 说 的 办</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>谢 谢 你 哦</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 开 心 啊 谢 谢 你 哦</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 说 的 一 点 都 没 错 就 是 他 干 的</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 说 的 对 哦 这 件 事 本 该 如 此</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 的 观 点 很 好 大 家 会 赞 成 的</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 的 想 法 很 独 特 哦</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 把 问 题 分 析 的 很 好 接 下 来 交 给 我 们 办 吧</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 刚 刚 推 荐 的 东 西 挺 好 的 我 都 想 要 一 个 了</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>他 跟 你 介 绍 的 那 个 样 子 差 不 多 你 说 的 太 准 了</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 办 事 我 放 心</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 讲 的 对 这 件 事 必 须 按 你 说 的 办</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 你 赞 一 个</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>同 意 、 同 意 、 同 意</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 的 、 好 的 、 好 的 、 好 的 、 好 的</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>同 意</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 好 好</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哈 哈 哈 哈</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>正 解 难 得 我 们 能 想 到 一 块 去</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 表 现 得 很 自 信 哦</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 对 大 家 都 很 公 平 值 得 学 习</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 聊 得 挺 投 缘 的 嘛</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 对 大 家 很 友 善 哦</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>听 了 你 的 话 顿 时 心 里 踏 实 了</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>做 人 就 该 像 你 这 样 低 调 嘛</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 很 勇 敢 哦</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 太 聪 明 了 我 太 崇 拜 你 了</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>讲 话 就 该 像 你 这 样</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 是 没 有 你 的 帮 助 恐 怕 要 失 败 了</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哈 哈 幸 亏 有 你 在</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>希 望 你 再 接 再 厉 取 得 更 大 的 进 步</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哈 哈 你 太 帅 了 吧</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 是 你 的 错 很 明 显 是 他 干 的</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>做 错 了 可 以 再 来 过 嘛 加 油</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 好 幽 默 啊 大 家 都 被 你 逗 乐 了</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哈 哈 我 是 在 逗 你 玩 的</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哈 哈 好 好 笑 啊</pattern>
+
+<template>
+<random>
+<li><srai>我 知 道 了</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>

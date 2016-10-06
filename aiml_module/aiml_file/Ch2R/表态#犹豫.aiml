@@ -1,0 +1,1142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</pattern>
+
+<template>
+<random>
+<li>表态|犹豫|您喜欢咯。</li>
+<li>表态|犹豫|这要看您对手机的要求了。</li>
+<li>表态|犹豫|都挺好的，看你喜欢咯。</li>
+<li>表态|犹豫|这几款都有很多人买的。</li>
+<li>表态|犹豫|这几款销量都很大的，质量保证，看您喜欢。</li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>在 通 往 未 来 的 人 生 岔 口 你 坚 定 地 选 择 了 这 条 小 路 路 的 那 边 是 风 和 日 丽 曲 径 通 幽 还 是 急 风 残 月 河 边 断 桥 你 无 从 知 晓 于 是 你 开 始 迷 惘 忧 虑 懊 丧 不 已 后 悔 当 初 没 有 走 上 岔 口 那 边 的 小 路 那 片 风 景 中 也 许 会 是 花 好 月 圆 阳 光 灿 烂 然 而 昨 日 的 太 阳 已 落 失 去 的 风 景 已 过 生 命 的 旅 途 没 有 回 返 的 路 程 你 已 没 有 了 选 择 也 不 能 过 多 的 犹 豫 你 只 能 依 靠 着 信 念 走 出 这 泥 泞 的 雨 地 也 许 你 会 错 过 一 段 季 节 也 许 你 会 迷 失 一 段 方 向 错 过 了 太 阳 你 还 会 再 迷 失 月 亮 吗</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>犹 豫 不 决 是 以 无 知 为 基 础 的</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>稍 有 犹 豫 便 就 不 然 了</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>纠 结 不 知 道 买 不 买 好 好 纠 结</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 还 在 纠 结 哪 一 个</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 些 机 会 因 瞬 间 的 犹 豫 擦 肩 而 过 ； 有 些 缘 分 因 一 时 的 任 性 滑 落 指 间 ； 有 些 感 情 因 一 时 的 冲 动 遗 憾 一 生 ； 有 些 人 一 转 身 就 是 一 辈 子 许 多 感 情 疏 远 淡 漠 无 力 挽 回 只 源 于 一 念 之 差</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>犹 豫 不 决 欲 言 又 止</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>到 底 哪 一 款 比 较 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哪 款 好 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哪 款 颜 色 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哪 款 性 能 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哪 个 操 作 系 统 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哪 个 好 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哪 个 颜 色 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哪 个 性 能 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哪 一 个 比 较 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 买 哪 一 个</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>谁 比 较 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 知 道 选 哪 一 个</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 知 道 哪 个 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 知 道 选 哪 款 手 机</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 清 楚 想 要 哪 个</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>选 哪 一 台 好 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 纠 结 好 纠 结 呀</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>那 么 你 觉 得 哪 一 款 适 合 我</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>那 么 我 选 哪 一 款 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 再 考 虑 下 把</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>再 考 虑 下</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>考 虑 下</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 思 考 下</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 再 思 考 下</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 先 考 虑 下</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 考 虑 下</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 想</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 再 想 想</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>等 一 下 我 想 想</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>再 等 一 下 把</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 等 等 我 再 想 下</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哪 种 性 价 比 比 较 高</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>该 要 哪 个 尺 寸 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>什 么 颜 色 比 较 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>贵 一 点 好 还 是 便 宜 一 点 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>配 置 高 的 好 还 是 配 置 低 的 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>白 色 的 好 看 还 是 黑 色 的 好 看</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 哪 些 1 0 0 0 块 的 手 机 适 合 我</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>什 么 品 牌 的 手 机 比 较 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 种 颜 色 的 手 机 好 看 吗</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 款 手 机 好 看 吗</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>到 底 值 不 值 得 买 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 该 使 用 哪 款 手 机</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 和 朋 友 商 量 下</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 款 手 机 性 价 比 高 不 高</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 样 的 配 置 算 不 算 贵</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>8 0 0 万 像 素 能 不 能 拍 出 清 晰 的 照 片 能 满 足 我 的 购 买 需 求 吗</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 犹 豫 不 决 啊</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>都 不 知 买 不 买 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>买 还 是 不 买 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 这 部 手 机 还 是 那 部 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 思 绪 纷 繁 心 乱 如 麻</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 一 会 儿 想 往 前 走 一 会 儿 想 往 后 撤 退 可 是 始 终 没 有 想 好 买 哪 部 手 机</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 无 法 做 出 决 定</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 哪 个 款 式 好 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 手 机 好 还 是 那 部 手 机 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 知 道 够 不 够 钱</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 家 人 不 知 道 同 不 同 意 我 买 手 机</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 再 看 看</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 看 看 先</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 好 玩 还 是 那 部 好 玩</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 好 看 点 还 是 那 部 好 看 点</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 不 要 买 一 部 绿 色 的 手 机 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>他 一 方 面 恨 她 不 欢 喜 一 方 面 又 惭 愧 自 己 懦 弱 晗 前 顾 后 永 远 迟 迟 不 前</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>他 常 常 迈 步 向 前 跃 跃 欲 试 然 而 来 到 爱 玛 面 前 这 种 决 心 很 快 也 就 烟 消 云 散 不 知 去 向</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 失 魂 落 魄 如 痴 似 醉 一 会 儿 我 觉 得 自 己 还 不 够 漂 亮 不 够 富 有 不 够 潇 洒 一 忽 儿 我 为 自 己 能 够 占 有 她 而 沾 沾 自 喜 得 意 洋 洋</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 些 矛 盾 在 他 心 中 乱 碰 使 他 一 天 到 晚 的 五 脊 六 兽 的 不 大 好 过</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>各 种 矛 盾 的 心 情 痛 苦 地 绞 缢 着 她</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>矛 盾 的 心 情 像 一 条 毒 蛇 在 咬 啮 他 的 脏 腑</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>她 收 不 住 奔 驰 起 来 的 思 想 一 会 儿 充 满 了 幸 福 幸 福 得 心 向 外 膨 胀 一 会 儿 充 满 了 恐 惧 感 到 这 事 是 那 么 可 怕</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>巨 大 的 爱 和 情 欲 正 在 他 的 内 心 深 处 激 烈 地 搏 斗 他 袖 着 手 呆 呆 地 望 着 天 空</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>在 他 的 灵 魂 里 两 种 感 情 恶 与 答 的 感 情 受 了 侮 辱 的 自 尊 心 与 对 这 个 受 苦 的 女 人 的 怜 悯 心 正 在 交 战</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>当 时 他 一 方 面 为 裘 德 将 要 在 她 手 里 受 痛 苦 而 眼 泪 直 落 另 一 方 面 又 为 自 己 可 怜 而 眼 泪 直 涌 两 种 眼 泪 互 相 混 合</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 要 再 犹 豫 不 决 了 不 要 总 是 思 前 顾 后 否 则 你 就 给 带 来 了 根 本 就 不 存 在 的 问 题 先 分 析 情 况 然 后 果 断 地 采 取 行 动 你 无 法 改 变 你 不 想 面 对 的 现 实 取 得 进 展 就 意 味 着 承 担 风 险</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>别 站 在 人 生 的 十 字 路 口 徘 徊 不 定 犹 豫 不 决 人 生 就 这 麽 一 次 未 知 的 旅 行 在 乎 的 是 沿 途 的 风 景 和 旅 行 的 心 情 不 会 因 为 你 的 停 留 尔 美 丽 的 风 景 终 止 走 过 的 路 已 经 成 为 你 背 後 的 风 景</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 时 候 我 们 在 爱 情 中 犹 豫 不 决 会 彷 徨 失 措 会 被 流 言 蜚 语 和 冷 言 冷 语 中 伤 继 而 会 对 原 本 在 意 的 这 段 感 情 产 生 质 疑</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>突 然 的 彷 徨 突 然 的 不 知 所 措</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 先 杀 猪 呢 还 是 先 杀 驴 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>他 正 在 犹 豫 要 不 要 做 出 决 定</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 时 候 我 们 在 爱 情 中 犹 豫 不 决 会 彷 徨 失 措</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哪 个 好 看 点</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 说 买 哪 个 好 点</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 有 没 有 什 么 好 的 建 议</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 有 没 有 好 的 建 议 吗</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 确 定 到 底 要 买 哪 一 款 手 机</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>那 么 你 觉 得 这 部 手 机 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 手 机 的 电 池 容 量 够 不 够 我 用 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 知 道 这 部 手 机 的 操 作 系 统 是 否 适 合 我</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>待 机 三 天 对 我 是 不 是 足 够</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>它 的 屏 幕 色 彩 数 据 能 不 能 满 足 我 的 需 求</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 的 内 存 够 不 够 我 装 电 影</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 知 道 这 部 手 机 是 否 具 备 我 希 望 的 其 他 功 能</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 清 楚 我 喜 不 喜 欢 这 部 手 机 的 音 质</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 手 机 的 音 质 算 好 还 是 不 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 手 机 的 像 素 算 高 还 是 不 高</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 知 道 它 的 网 速 是 否 能 满 足 我 的 需 求</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 清 楚 我 的 手 机 卡 能 不 能 装 在 这 部 手 机 里</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 好 像 没 有 带 够 钱</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 认 为 我 买 哪 款 比 较 好</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 台 手 机 会 太 贵 吗</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 么 高 配 置 的 手 机 会 浪 费 吗</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 种 颜 色 的 手 机 好 像 多 人 买</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 种 配 置 的 手 机 好 像 多 人 买</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 买 这 手 机 会 不 会 显 得 高 大 上</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 知 道 我 的 钱 够 不 够 买 这 部 手 机</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 清 楚 手 机 保 修 方 不 方 便</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 退 货 的 时 候 到 底 能 不 能 退 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 知 道 我 会 不 会 在 手 机 上 查 询 购 买 订 单</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 清 楚 我 需 不 需 要 蓝 牙 功 能</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 手 机 的 功 能 对 我 有 没 有 用 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 能 不 能 用 完 手 机 上 的 全 部 功 能 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 买 这 么 多 功 能 的 手 机 会 不 会 浪 费</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 上 的 原 装 应 用 会 不 会 多</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 上 的 应 用 能 不 能 删 除</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 上 的 应 用 好 像 不 能 删 除</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 应 该 用 不 上 那 么 多 功 能</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>它 打 电 话 算 不 算 清 晰 吧</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>网 速 可 以 不 可 以 呢</pattern>
+
+<template>
+<random>
+<li><srai>站 在 人 生 的 十 字 路 口 我 们 也 许 会 徘 徊 不 定 、 犹 豫 不 决 影 响 我 们 下 决 心 的 因 素 往 往 既 不 是 事 情 过 于 复 杂 也 不 是 我 们 的 判 断 力 不 够 而 是 对 于 自 己 即 将 放 弃 的 选 择 心 有 不 甘</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>

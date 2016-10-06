@@ -1,0 +1,985 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>不 要 这 个</pattern>
+
+<template>
+<random>
+<li>导购|更换|那亲您觉得这款$如何呢？</li>
+<li>导购|更换|亲，想要$的手机？</li>
+<li>导购|更换|这款$也不错哦，亲看看吧！</li>
+<li>导购|更换|亲，那这款$好吗？</li>
+<li>导购|更换|您看看$这款怎样呢？</li>
+<li>导购|更换|您觉得$这款怎样。</li>
+<li>导购|更换|那亲您觉得这款$如何呢？</li>
+<li>导购|更换|亲，想要$的手机？</li>
+<li>导购|更换|这款$也不错哦，亲看看吧！</li>
+<li>导购|更换|亲，那这款$好吗？</li>
+<li>导购|更换|您看看$这款怎样呢？</li>
+<li>导购|更换|您觉得$这款怎样。</li>
+<li>导购|更换|要多看些是吧，你再看看$这款如何？</li>
+<li>导购|更换|我再给你推荐$这款，感觉如何？</li>
+<li>导购|更换|那看看这款$如何？</li>
+<li>导购|更换|亲，您看$这款还行吗？</li>
+<li>导购|更换|亲，你看我给你选的这款$，眼光如何？</li>
+<li>导购|更换|精挑细选也是对的，再看看这款$呗~~</li>
+<li>导购|更换|总会挑到你喜欢的，看看这款$呗~~</li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>换 一 款 吧</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>换 一 台</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 其 他 的 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 其 他 手 机 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 其 他 的</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 换 另 一 款</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 换 另 一 台</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 别 的 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 行</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 太 行</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 合 意</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 太 合 意</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 太 满 意</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 满 意</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 合 胃 口</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 太 合 胃 口</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 是 我 的 菜</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 要 你 说 得 这 个</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 愿 意</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 喜 欢 这 个</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 要</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 买 了</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 买 了</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>差 劲</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>糟 糕</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>平 庸</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 般 般</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>太 差 了</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>太 平 常 了</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>太 普 通 了</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>很 普 通</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 合 适</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 觉 得 不 合 适</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 太 合 适</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 是 很 好</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 太 好</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 太 靠 谱</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 靠 谱</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 觉 得 不 好</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 太 喜 欢</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 大 喜 欢</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 没 到 我 喜 欢 的</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 那 么 喜 欢</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 想 象 中 的 好</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 喜 欢 啊</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 别 的 款 式 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 要 这 款</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 要 这 台</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 要 这 部</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 要 这 种</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 其 他 类 型 的 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 别 的 手 机 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>更 换 一 台 可 以 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>换 一 款 来 看 看</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>换 一 个 给 我 吧</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 喜 欢 这 款 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 喜 欢 这 台 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 其 他 的 手 机 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 其 他 款 式 的 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 另 一 款 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 另 一 台 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 另 一 部 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 别 的 类 型 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 觉 得 这 款 不 好</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 觉 得 这 台 手 机 不 好</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 觉 得 这 部 手 机 不 好</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 喜 欢 这 台 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 喜 欢 它</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 要 这 款 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 要 这 部 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 要 这 个 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>换 一 个 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 我 推 荐 其 他 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 我 另 一 部 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 我 看 另 一 台 手 机 吧</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 台 手 机 不 要 了</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 要 这 款 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 要 这 部 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 要 这 个 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 我 看 另 一 款 手 机 吧</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>麻 烦 推 荐 其 他 的 给 我</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 其 他 的 手 机 给 我 吧</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 别 的 可 以 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 另 一 台 吧</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 另 一 部</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 别 的</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 另 一 款</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 另 一 部 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 其 他 的</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 其 他 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 另 一 款 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 另 一 台 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 另 一 部 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>换 其 他 的 看 看</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>换 其 他 的</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 别 的 给 我 吧</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 喜 欢 这 款</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 喜 欢 这 台</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 喜 欢 这 种</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 喜 欢 这 个</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 我 不 喜 欢</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 我 不 想 要</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 别 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 其 他 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>不 要 这 个</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>

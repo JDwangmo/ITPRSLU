@@ -1,0 +1,906 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>现 在 是 几 点 啊</pattern>
+
+<template>
+<random>
+<li>闲聊|时间|我看了下手表，现在的时间是：<date format="HH:MM:ss"></date>。</li>
+<li>闲聊|时间|现在的时间是：<date format="HH:MM:ss"></date>，看看下手机吧。</li>
+<li>闲聊|时间|<date format="HH:MM:ss"></date>，有没有时间来聊下下手机。</li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>几 点 现 在</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>现 在 是 什 么 时 候</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 知 道 现 在 是 几 点 吗</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 知 道 现 在 是 什 么 时 候 吗</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 知 不 知 道 现 在 几 点 了</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>现 在 时 间 是 多 少</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>现 在 是 什 么 时 间</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 问 现 在 几 点 了</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 问 一 下 现 在 的 准 确 时 间 是 多 少</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 知 道 现 在 几 点</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 几 个 小 时 到 中 午</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>中 午 什 么 时 候</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>大 概 什 么 时 候</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>大 概 几 点</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>大 概 还 有 几 天</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>需 要 多 少 天 才 可 以</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>什 么 时 候</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 几 点</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 能 要 过 几 天 才 行</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 可 不 可 以</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 没 时 间</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 礼 拜 都 没 时 间</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 什 么 时 候 才 可 以</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 月 我 有 空</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>晚 上 有 空 吗</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>早 上 没 有 空</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 知 道 明 天 有 没 有 空</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 知 道 晚 上 可 不 可 以 啊</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 等 到 6 点 才 知 道</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>晚 上 吗</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>中 午 就 可 以</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>晚 上 吧</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>凌 晨 几 点</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 午 几 点 到</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 多 少 个 小 时</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 多 少 个 小 时 到 中 午</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 剩 下 多 少 时 间</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>多 少 分 钟</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 多 少 分 钟</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 剩 下 多 少 分 钟</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 多 少 秒</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>大 概 多 少 秒</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>大 概 还 有 半 分 钟</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 能 明 天 中 午 就 可 以</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 多 久 轮 到 我</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 很 快 就 行</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>等 等 我 五 分 钟</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>两 个 小 时 后 过 来</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 知 道 一 个 小 时 有 多 少 秒 吗</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 懂 得 什 么 叫 时 间 吗</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 知 不 知 道 什 么 叫 时 间</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 知 道 一 个 小 时 有 多 少 分 钟 吗</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 分 钟 有 多 少 秒</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 午 两 点 半</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>晚 上 九 点 半</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>早 上 7 点</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>1 个 小 时 有 6 0 分 钟</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>1 分 钟 有 6 0 秒</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>3 点 钟</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>1 9 点 3 0 分</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>2 3 点 5 9 分 5 9 秒</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>两 分 钟</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>2 4 个 小 时</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 天</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 天 有 多 长</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>2 0 0 0 年 不 是 闰 年</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 年 是 闰 年</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 年 不 是 平 年</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 周 什 么 时 候</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>过 几 个 星 期 吧</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>为 什 么 要 那 么 久</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>需 要 等 好 久 啊</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 能 需 要 等 两 个 星 期</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 能 没 那 么 快</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>应 该 过 几 天 就 可 以</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>等 等 不 行 吗</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>半 个 小 时 就 可 以</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 多 少 号</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 多 少 号 来 着</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 是 多 少 号</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 是 几 号</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>后 天 才 是 1 号</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 月 有 3 1 号</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 年 的 2 月 没 有 第 2 9 天</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 离 5 月 1 日 还 有 多 少 天</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 离 放 暑 假 还 有 多 少 天</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 年 的 清 明 节 是 几 号</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>去 年 的 重 阳 节 是 多 少 号</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 是 星 期 几</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 星 期 几 来 着</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 是 星 期 二 吗</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 是 星 期 几</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 是 星 期 六 了 吗</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 是 星 期 天</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 年 的 国 庆 节 是 周 末 吗</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 年 的 五 一 劳 动 节 是 不 是 在 星 期 三 那 天</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>距 离 周 末 还 有 两 天 时 间</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 离 下 周 末 还 有 多 少 天</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>周 末 就 快 来 了</pattern>
+
+<template>
+<random>
+<li><srai>现 在 是 几 点 啊</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>

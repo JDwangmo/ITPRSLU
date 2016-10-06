@@ -1,0 +1,1489 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>这 一 定 是 对 的</pattern>
+
+<template>
+<random>
+<li>表态|肯定|嗯，很好，老大！</li>
+<li>表态|肯定|哈好，您能喜欢，好开心！</li>
+<li>表态|肯定|是啊，这款质量挺不错的哟~</li>
+<li>表态|肯定|嗯，您很有眼光哦~这款的销量排名可是名列前茅的哦！</li>
+<li>表态|肯定|赞成~确实不错！</li>
+<li>表态|肯定|这款确实得了不少好评，您买下一定不会后悔~~亲~~</li>
+<li>表态|肯定|当然咯，这可是热销款啊！</li>
+<li>表态|肯定|这款机我们卖得很好的，肯定不赖嘛！</li>
+<li>表态|肯定|何止挺好啊，是真的很好啊！您买不会后悔的！</li>
+<li>表态|肯定|嗯嗯，是挺好的！亲，要拍下吗？</li>
+<li>表态|肯定|是不错，我自己也用的这款~</li>
+<li>表态|肯定|这款机我们卖得很好的，实惠也实用~</li>
+<li>表态|肯定|亲，决定拍下吗？</li>
+<li>表态|肯定|好评，值得拥有！</li>
+<li>表态|肯定|嗯，这款可以说是这里最实惠的。不要犹豫了，买了绝对不会后悔！</li>
+<li>表态|肯定|是啊，很多客户用了都说不错！</li>
+<li>表态|肯定|嗯，很好。请问老大还有什么吩咐？</li>
+<li>表态|肯定|的确很不错，不买你会后悔的！</li>
+<li>表态|肯定|你很满意，是我的荣幸。</li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 一 定 能 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 问 题</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 我 一 定 对</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 我 一 定 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 一 定 是 完 全 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 是 绝 对 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 不 存 在 问 题 这 是 绝 对 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 不 存 在 问 题 这 是 十 分 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 不 存 在 问 题 这 是 非 常 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 不 存 在 问 题 这 是 肯 定 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 不 存 在 问 题 这 是 一 定 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 不 存 在 问 题 这 是 完 全 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 肯 定 我 的 想 法 是 一 定 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 肯 定 我 的 想 法 是 十 分 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 肯 定 我 的 想 法 是 非 常 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 肯 定 我 的 想 法 是 绝 对 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 肯 定 我 的 想 法 是 肯 定 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 肯 定 我 的 想 法 是 完 全 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 说 得 对 我 认 为 很 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 这 是 对 的 啊</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 肯 定 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 的 啊</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 当 然 是 对 的 啊</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 当 然 是 正 确 的 啊</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 显 然 是 对 的 啊</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 显 然 是 正 确 的 啊</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 的 想 法 一 定 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 这 是 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 完 全 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 是 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 我 认 为 这 是 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 对</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 我 认 为 这 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 是 这 样</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>肯 定 是 啦</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 想 法 那 是 肯 定 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 想 法 那 是 十 分 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 想 法 那 是 一 定 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 想 法 那 是 绝 对 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 想 法 那 是 非 常 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 想 法 那 是 完 全 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>对</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 肯 定 能 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 完 全 能 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 我 是 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 的 这 是 肯 定 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 的 这 是 十 分 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 的 这 是 一 定 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 的 这 是 绝 对 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 的 这 是 非 常 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 的 这 是 完 全 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 我 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 肯 定 这 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 肯 定 是 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 我 认 为 我 的 想 法 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>对 的 啊</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 完 全 没 有 异 义</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 肯 定 是 这 样</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>完 全 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 我 认 为 我 的 想 法 完 全 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>能</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 我 的 想 法 绝 对 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 肯 定 能 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 我 认 为 这 能 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 错 这 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 错 这 是 十 分 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 错 这 是 完 全 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 错 这 是 绝 对 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 错 这 是 非 常 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 错 这 是 一 定 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 错 这 是 肯 定 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 我 的 想 法 非 常 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 我 的 想 法 一 定 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 我 的 想 法 十 分 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 我 的 想 法 完 全 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 我 的 想 法 肯 定 正 确</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 想 法 是 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 想 法 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 观 点 是 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 观 点 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 论 点 是 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 我 的 论 点 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 肯 定 我 的 想 法 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 肯 定 我 的 观 点 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 肯 定 我 的 论 点 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 的 啊</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗯 好 的 啊</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 的 我 支 持 你</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 样 是 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 的 这 样 是 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 这 一 定 能 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 这 肯 定 能 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 这 绝 对 能 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 这 完 全 能 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 坚 信 这 能 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 相 信</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 能 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 我 的 想 法 是 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 这 是 正 确 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 为 是 对 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 同 意</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 同 意 你 的 想 法</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 同 意 你 的 说 法</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 认 同 你</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 款 手 机 不 错</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 不 错</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 说 得 不 错</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 厉 害 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 喜 欢 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>超 级 棒 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 错 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>性 能 不 错</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>屏 幕 不 错</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 错</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 错</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>对 啊</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>漂 亮</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>做 的 好</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>真 棒</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>非 常 棒</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>牛 逼</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>o k</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>O K</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>牛</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>真 牛</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>赞</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>说 得 太 棒 了</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 力</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>太 给 力 了</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 太 给 力 了</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 评</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>绝 对 好 评</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 啊 我 也 这 么 认 为</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 啊 是 啊</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 就 是 这 样 觉 得 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 以 的</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 可 以 喔</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 很 喜 欢</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 真 心 喜 欢 他</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 非 常 喜 欢 这 个</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 好 喜 欢 这 个</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 好 中 意</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 中 意 这 款</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 中 意 它</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>看 来 你 的 推 荐 可 以 接 受</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 以 接 受</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 以</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 以 要</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 以 没 问 题</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 以 啦</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 以 喔</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>很 满 意</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 好</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 行</pattern>
+
+<template>
+<random>
+<li><srai>这 一 定 是 对 的</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>

@@ -1,0 +1,957 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>天 气 好 吗</pattern>
+
+<template>
+<random>
+<li>闲聊|天气|天气啊，等等我去百度下。</li>
+<li>闲聊|天气|天气啊，待会我打个电话问下天气台哈。</li>
+<li>闲聊|天气|我不是天气预报啦！</li>
+<li>闲聊|天气|我算了一下，明天会下大雨，哈哈。。</li>
+<li>闲聊|天气|oh,no~我也忘记看天气预报了！</li>
+<li>闲聊|天气|oh,no~我们还是聊手机把！</li>
+<li>闲聊|天气|今天天气好晴朗，处处好风光！哈哈...</li>
+<li>闲聊|天气|oh,no~我也忘记看天气预报了！</li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 气 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 天 气 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 天 气 好 不 好</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 天 气 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 天 气 好 不 好</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 气 预 报 说 接 下 来 的 一 个 星 期 里 天 气 怎 么 样 今 天 天 气 真 的 很 好</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 天 气 好 像 很 好</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>听 说 明 天 会 下 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 里 好 久 没 有 下 过 雨 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 下 了 一 天 的 雨 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>昨 天 下 了 好 大 的 暴 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>昨 天 就 下 了 一 会 儿 的 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>昨 天 下 了 一 场 滂 沱 大 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>昨 晚 好 像 下 大 暴 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>快 下 雨 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 看 到 浓 密 的 乌 云 就 知 道 一 场 暴 雨 快 来 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 场 雨 持 续 了 整 整 一 个 星 期</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>最 近 天 气 有 点 反 复 无 常</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>最 近 都 是 一 会 儿 晴 一 会 儿 阴</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 很 晒 啊</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 的 天 气 一 般</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 的 太 阳 挺 烈 的</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 里 的 全 年 平 均 气 温 居 世 界 第 一 高</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 又 将 是 晴 空 万 里 的 一 天</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>最 近 的 天 气 挺 好 的</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 几 天 好 热</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 气 渐 渐 回 暖 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 几 天 温 度 居 然 高 达 4 0 度</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 几 天 气 温 好 高 啊</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 的 天 气 好 闷 热</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 种 天 气 很 舒 服</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>秋 高 日 爽 的 天 气 让 人 心 旷 神 怡</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 种 天 气 最 适 合 人 们 出 游</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 很 喜 欢 这 种 凉 飕 飕 的 天 气</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 过 这 里 的 雾 霾 天 气 越 来 越 严 重 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 样 的 雾 霾 天 气 让 人 们 觉 得 非 常 难 受</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>由 于 雾 霾 我 们 周 末 只 能 待 在 家 里</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 年 和 往 年 一 样 又 刮 起 了 严 重 的 雾 霾</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 场 台 风 把 这 里 的 雾 霾 刮 走 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 早 上 刮 了 好 大 的 雾</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 么 浓 的 雾 我 还 是 第 一 次 见</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 么 大 的 雾 很 影 响 人 们 的 出 行</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>听 说 冷 空 气 南 下 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>冷 空 气 还 有 两 天 到 达</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 冷</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 热</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 气 慢 慢 变 冷 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 几 天 天 气 真 的 好 冷</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>最 近 风 有 点 大</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 气 预 报 说 后 天 气 温 会 降 到 零 度 以 下</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>冷 空 气 给 这 个 地 方 带 来 了 一 场 大 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 开 始 就 降 温 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>寒 冷 的 天 气 让 人 不 想 出 门</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 早 上 居 然 下 雪 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 地 方 一 年 里 有 一 半 的 时 间 都 在 下 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 场 雪 下 了 整 整 一 天</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 地 方 好 多 年 没 有 下 过 雪 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>早 上 一 起 来 路 上 全 都 是 雪</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>昨 天 晚 上 下 了 好 大 的 雪</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 又 是 阴 天</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 几 天 都 是 阴 天</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 气 预 报 说 今 天 是 晴 天 然 而 并 不 是</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>最 近 这 几 天 都 是 阴 天</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 种 回 南 天 真 让 人 受 不 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>最 近 的 天 气 好 潮 湿</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>接 下 来 的 几 个 星 期 里 平 均 空 气 湿 度 将 会 达 到 全 年 最 高</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>听 说 台 风 快 到 这 边 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>气 象 台 发 布 了 暴 雨 预 警</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>持 续 的 雷 暴 雨 让 人 觉 得 很 不 舒 服</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 周 末 台 风 就 到 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 台 风 还 有 2 个 小 时 就 到 达</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 个 月 天 气 就 开 始 变 得 干 燥 起 来 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>最 近 这 几 天 的 天 气 真 是 坏 得 不 行</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 月 刮 了 3 次 台 风</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>4 号 那 天 好 像 会 刮 台 风</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 个 月 冬 天 来 了 就 开 始 下 雪 了</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>去 年 的 国 庆 节 下 好 大 的 雪</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>每 年 的 清 明 节 我 家 乡 都 会 下 绵 绵 细 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>往 年 三 月 份 这 里 都 会 有 回 南 天</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 天 气 如 何</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 几 点 出 发</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 雨 了 啊</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 天 气 不 错 嘛</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<!--2015-05-28 添加-->
+<category>
+<pattern>别 忘 了 带 伞</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>空 气 质 量 令 人 满 意 基 本 无 空 气 污 染</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 气 温 度 持 续 高 涨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 气 预 报</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>雷 阵 雨 转 多 云</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>微 风</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>阴 天</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>持 续 暴 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>强 降 雨 逐 渐 南 压</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>雨 势 明 显 增 强</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>未 来 三 天 长 江 中 下 游 地 区 将 有 中 到 大 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>面 对 火 辣 辣 的 太 阳 你 真 的 懂 如 何 防 晒 吗</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 气 炎 热</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 气 不 错 适 宜 晾 晒 衣 物</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>晴 、 多 云 、 阴</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>阵 雨 、 雷 阵 雨 、 雷 阵 雨 伴 有 冰 雹 、 雨 夹 雪 、 小 雨 、 中 雨 、 大 雨 、 暴 雨 、 大 暴 雨 、 特 大 暴 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>阵 雪 、 小 雪 、 中 雪 、 大 雪 、 暴 雪 、 雾 、 冻 雨 、 沙 尘 暴 、 小 到 中 雨 、 中 到 大 雨 、 大 到 暴 雨</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>暴 雨 到 大 暴 雨 、 大 暴 雨 到 特 大 暴 雨 、 小 到 中 雪 、 中 到 大 雪 、 大 到 暴 雪</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>浮 尘 、 扬 沙 、 沙 尘 暴 、 强 沙 尘 暴</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>特 强 沙 尘 暴 轻 雾 浓 雾 强 浓 雾 轻 微 霾 轻 度 霾 中 度 霾 重 度 霾 特 强 霾 霰 飑 线</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>夏 天 雷 雨 到 来 之 前 在 天 空 先 会 看 到 积 云</pattern>
+
+<template>
+<random>
+<li><srai>天 气 好 吗</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>

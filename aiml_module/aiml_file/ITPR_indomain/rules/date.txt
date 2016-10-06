@@ -1,0 +1,8 @@
+
+<!--模板（陈述句 ： 天数）-->
+<template>ACTION|天数：<star index = "1"/>
+<pattern>*天
+<pattern>*天游
+<pattern>游*天
+<pattern>玩*天
+<pattern>想来个*天游

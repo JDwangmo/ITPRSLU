@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<category>
+<pattern>* 天</pattern>
+<template>
+<random>
+<li>ACTION|天数：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 天 游</pattern>
+<template>
+<random>
+<li>ACTION|天数：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>游 * 天</pattern>
+<template>
+<random>
+<li>ACTION|天数：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>玩 * 天</pattern>
+<template>
+<random>
+<li>ACTION|天数：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>想 来 个 * 天 游</pattern>
+<template>
+<random>
+<li>ACTION|天数：<star index = "1"/></li>
+</random>
+</template>
+</category>
+</aiml>

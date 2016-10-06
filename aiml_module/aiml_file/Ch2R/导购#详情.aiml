@@ -1,0 +1,986 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</pattern>
+
+<template>
+<random>
+<li>导购|详情|亲，有很多的，你可以选择一款来了解！</li>
+<li>导购|详情|嗯嗯，都不错的啦，你随便挑一种？</li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>摄 像 头 比 较 好 的 手 机 有 哪 一 些 牌 子</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 牌 子 有 没 有 屏 幕 5 英 寸 以 上 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 手 机 性 能 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 手 机 屏 幕 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 手 机 参 数 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 款 手 机 的 摄 像 头 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 款 手 机 的 摄 像 头 像 素 是 多 少</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 的 待 机 时 间 有 多 久</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 内 存 有 多 大</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 内 存 有 4 G 那 么 大 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 手 机 是 4 G 的 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 是 安 卓 的 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 是 双 核 的 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 分 辨 率 多 少</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 款 手 机 的 电 池 容 量 有 多 大</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 看 一 下 那 部 双 核 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 看 一 下 这 部 华 为 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 看 一 下 这 部 诺 基 亚 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 看 一 下 这 部 小 米 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 看 一 下 这 部 中 兴 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 像 这 部 手 机 性 能 很 高</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>听 说 这 手 机 的 参 数 不 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>听 说 这 手 机 的 参 数 很 高</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>听 说 这 手 机 的 参 数 很 不 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 我 介 绍 一 下 这 手 机 的 性 能</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 我 看 一 下 这 手 机 的 屏 幕 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 颜 色 看 起 来 一 般 般 啊</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 不 可 以 给 我 介 绍 一 下 这 部 手 机</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 有 没 有 白 色 后 盖 的</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 有 没 有 黑 色 后 盖 的</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 有 没 有 其 他 颜 色 的 后 盖</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 有 没 有 屏 幕 大 一 点 的</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 好 像 屏 幕 比 较 大</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 手 机 性 能 没 有 那 部 好 吧</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 觉 得 这 手 机 性 价 比 没 有 那 部 高</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 牌 子 的 旗 舰 手 机 是 哪 一 个 型 号</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 手 机 的 型 号 是 多 少</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 款 的 型 号 什 么</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 牌 子 的 手 机 是 不 是 都 那 么 便 宜</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>真 的 没 得 打 折 了 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 还 可 以 便 宜 一 点 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 可 不 可 以 便 宜 一 点</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 没 有 价 格 适 中 的 手 机 型 号</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>买 这 部 手 机 有 没 有 优 惠</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 有 得 打 折 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 部 手 机 打 多 少 折</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 的 保 修 期 是 多 少 啊</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 有 屏 幕 再 大 一 点 的 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>具 体 点</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>详 细 点</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>详 细 点 讲</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>具 体 点 讲</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>具 体 介 绍 下</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>详 细 介 绍 下</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 多 人 买 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 多 人 要 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 销 量 如 何</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 热 销 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 热 卖 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 是 当 下 流 行 的 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 的 售 后 服 务 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 保 修 多 久</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 的 音 质 如 何</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 的 电 池 如 何</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 发 热 厉 害 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 有 什 么 颜 色</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 有 多 重</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 运 行 速 度 如 何</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 的 好 评 多 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 收 到 的 差 评 多 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 的 屏 幕 有 多 大</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 是 音 乐 手 机 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 的 预 装 软 件 可 以 卸 载 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 和 这 台 手 机 相 似 的 手 机 推 荐 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 拍 照 好 看 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 屏 幕 容 易 碎 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 是 什 么 年 份 出 产 的</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 好 用 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 贵 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 像 素 高 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 屏 幕 如 何</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 贵 不 贵</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 价 钱 多 少</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>价 格 多 少</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>价 钱 多 少</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 的 软 件 好 用 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 软 件 的 系 统 好 用 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 的 字 体 大 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 运 行 速 度 快 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 电 池 好 用 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 发 热 厉 害 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 是 多 少 核 的</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 屏 幕 有 多 大</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 出 手 机 各 个 参 数</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 出 基 本 参 数 看 看</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>介 绍 下</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>介 绍 下 详 情</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>大 部 分 人 对 手 机 评 价 如 何</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 有 什 么 缺 点</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 有 什 么 不 足</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 台 手 机 有 多 少 种 颜 色 可 选</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 的 前 置 摄 像 头 像 素 多 少</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 的 后 置 摄 像 头 像 素 多 少</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 的 前 置 后 置 摄 像 头 像 素 分 别 是 多 少</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 的 保 修 期 有 多 长</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 的 好 评 率 多 少</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 的 系 统 好 用 吗</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 的 电 池 一 般 可 以 用 几 天</pattern>
+
+<template>
+<random>
+<li><srai>音 质 比 较 好 的 手 机 有 哪 一 些 牌 子</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>

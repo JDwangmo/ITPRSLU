@@ -1,0 +1,1035 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>拜 拜</pattern>
+
+<template>
+<random>
+<li>闲聊|结束语|再见！</li>
+<li>闲聊|结束语|拜拜，欢迎下次光临！</li>
+<li>闲聊|结束语|再见，欢迎下次光临：）</li>
+<li>闲聊|结束语|再见，谢谢您的光临！</li>
+<li>闲聊|结束语|好的，再见：）</li>
+<li>闲聊|结束语|好的，记得好评喔：）</li>
+<li>闲聊|结束语|再见！886！</li>
+<li>闲聊|结束语|拜拜，记得下次光临！</li>
+<li>闲聊|结束语|拜拜，希望我的服务能帮到你。</li>
+<li>闲聊|结束语|拜拜，帮您选到心仪的手机是我的义务。</li>
+<li>闲聊|结束语|拜拜，下次带上小伙伴来买手机吧！</li>
+<li>闲聊|结束语|再见，谢谢您对我的支持！</li>
+<li>闲聊|结束语|再见，帮到您是我的荣幸！</li>
+<li>闲聊|结束语|好的，觉得我帮得上忙，记得推荐给你的小伙伴们！</li>
+<li>闲聊|结束语|好的，再见！您的支持是我前进的动力。</li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>拜 拜 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>再 见</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>再 见 当 心 点</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>再 见 小 心 点</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>再 见 请 留 步</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 黑 了 我 得 走 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 色 晚 了 我 得 马 上 动 身 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 送 啦</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 送 你 啦</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 次 见</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 次 聊</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 次 再 见</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 次 再 聊</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 次 再 好 好 聊 聊</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 聊 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 说 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 去 忙 其 他 事 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 有 事 先 忙</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 先 走 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>走 啦</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 走 啦</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>撤 了 先 撤 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>晚 安 我 睡 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 吧 该 睡 觉 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>洗 洗 睡 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>来 也 匆 匆 去 也 匆 匆 期 待 下 一 次 重 逢</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>希 望 我 们 明 天 就 能 相 逢</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 舍 不 得 你 走 但 是 你 要 走 我 也 没 法 挽 留 只 能 说 声 “ 一 路 顺 风 ”</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>无 尽 的 人 海 中 我 们 相 聚 又 分 离</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 走 了 不 知 道 下 次 什 么 时 候 再 见</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 到 了 应 该 离 开 的 时 候 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 告 辞 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>失 陪 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 越 来 越 黑 我 得 走 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 想 到 已 这 么 晚 了 我 得 走</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>对 不 起 我 得 赶 快 走</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 好 意 思 我 现 在 就 得 走</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 见 谅 我 不 得 不 先 告 辞 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 真 的 要 走 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 我 该 走 的 时 候 了 谢 谢 您 陪 我</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 先 去 洗 澡 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 我 最 好 现 在 就 走 我 们 就 此 告 别 吧</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>火 车 八 点 开 我 恐 怕 现 在 得 快 点 走</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 得 赶 末 班 车 回 城</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>与 你 这 次 谈 话 非 常 愉 快</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>很 感 谢 您 费 时 和 我 畅 谈 我 该 告 辞 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 我 们 这 样 也 谈 不 出 什 么 名 堂 来 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>过 得 真 愉 快 谢 谢 您 再 见</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 的 朋 友 正 准 备 走 我 得 去 送 他</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 多 保 重</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>保 持 联 系</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>那 我 们 就 下 周 再 见 吧</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>明 天 见</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>回 头 见</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>真 对 不 起 你 们 再 聊 我 不 得 不 先 走 一 步 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>天 下 没 有 不 散 的 筵 席</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>后 会 有 期 朋 友</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 就 此 别 过</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 要 暂 时 分 别 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 珍 重</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>常 联 系</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 次 再 和 你 聊 我 们 下 次 接 着 聊 吧</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>谢 谢 打 扰 你 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>别 忘 了 我 们 的 约 会 明 天 见 吧</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>抱 歉 我 不 得 不 走 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 走 了 我 要 迟 到 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 就 谈 到 这 里 你 看 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 说 的 都 说 完 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>待 会 儿 见</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 会 再 打 电 话 给 你 的</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>没 什 么 事 我 就 先 走 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 这 样 吧</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>晚 安 祝 好 梦</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>祝 好 梦</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>还 有 什 么 需 要 再 打 电 话 联 系 我</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 路 顺 风</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>路 上 小 心 注 意 车 辆</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>到 了 再 给 我 打 电 话</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 跟 你 玩 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>算 了 我 们 换 个 话 题</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 聊 到 这 里 先 把</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 去 吃 饭 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>走 了 去 吃 饭 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 和 你 玩 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 和 你 玩 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 和 你 说 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 和 你 说 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>8 8</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>8 8 6</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>麻 烦 你 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>麻 烦 您 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>拜 托 你 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 忙 吧 改 天 再 聊</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 多 关 照</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 原 谅 给 你 添 麻 烦 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 对 您 的 关 照 谨 致 谢 意</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 期 待 着 你 的 消 息</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>谢 谢 您 的 服 务</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 很 享 受 我 们 之 间 的 交 流</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 可 以 明 天 继 续 谈</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 改 天 再 解 决 这 一 争 论 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 我 们 以 后 再 谈</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>谢 谢 你 抽 空 和 我 谈 话</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>希 望 我 们 能 经 常 保 持 联 络</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 应 该 经 常 地 通 通 话</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 现 在 必 须 结 束 我 们 的 谈 话 了</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 非 常 渴 望 能 和 你 再 次 在 网 上 聊 天</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 过 些 时 候 再 聊</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>和 你 聊 得 很 开 心</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 问 菜 品 需 要 打 包 吗</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 带 好 您 的 随 身 物 品 请 慢 走</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>谢 谢 光 临 希 望 下 次 还 能 为 您 服 务</pattern>
+
+<template>
+<random>
+<li><srai>拜 拜</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>

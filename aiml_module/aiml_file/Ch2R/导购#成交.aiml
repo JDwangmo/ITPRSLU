@@ -1,0 +1,956 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>成 交</pattern>
+
+<template>
+<random>
+<li>导购|成交|哈好，您能喜欢，好开心！</li>
+<li>导购|成交|好的。您很有眼光哦~这款的销量排名可是名列前茅的哦！</li>
+<li>导购|成交|赞成~确实不错！</li>
+<li>导购|成交|嗯嗯，这款确实得了不少好评，您买下一定不会后悔~~亲~~</li>
+<li>导购|成交|嗯嗯，亲，您的选择是正确的！</li>
+<li>导购|成交|好的，亲！</li>
+<li>导购|成交|好，您好眼光！</li>
+<li>导购|成交|好的。它是不错，我自己也用的这款~</li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 买 这 一 部</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 就 要 这 一 部</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 买 这 一 部</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 买 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>那 我 就 买 它</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 买 他 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 她</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 要 她 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 要 他 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 要 它 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 这 个 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 这 款</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 款 我 要 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 这 个</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 这 款</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 这 种</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 一 个</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 两 个</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 三 个</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 四 个</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 五 个</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 六 个</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 两 款</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 两 套</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 一 套</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 还 要 再 买 这 款</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>敲 定 他</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>敲 定 它</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>敲 定 她</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>确 定 要</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>买 这 个</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>买 这 部</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 这 部</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>把 它 收 回 家</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>把 他 收 回 家</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>把 她 收 回 家</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>收 回 家</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>带 回 家</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>把 她 带 回 家</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>把 它 带 回 家</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>把 他 带 回 家</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 他 吧</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 它 吧</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 她 吧</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 这 部</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 这 手 机</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 他 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 它 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 她 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>买 买 买</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 要 要</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>买</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>收 下 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 我 的 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 我 的</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>属 于 我 的 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 要 它</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 要 他</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 要 她</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 这 台 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 要 这 台</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 想 要 这 台</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 想 要 他</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 想 要 它</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 是 想 要 她</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>想 买 的 就 是 他</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>想 买 的 就 是 它</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>想 买 的 就 是 她</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>正 是 要 这 部</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>正 是 买 他</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>正 是 买 它</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>正 是 买 她</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>正 是 买 这 部</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>正 是 要 他</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>正 是 要 它</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>正 是 要 她</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>买 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 买</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 买</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 了 它</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 这 台</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 了 她</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 了 他</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>就 这 台</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>挑 中 这 台 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>挑 中 是 他 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>挑 中 是 它 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>挑 中 是 她 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>挑 中 这 部 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>挑 中 这 部 手 机</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>相 中 是 这 部 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>相 中 是 这 台 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>相 中 是 他</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>相 中 是 它</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>相 中 是 她</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>相 中 这 部 手 机</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>决 定 是 这 部 了</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>决 定 是 他</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>决 定 是 它</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>决 定 是 她</pattern>
+
+<template>
+<random>
+<li><srai>成 交</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>

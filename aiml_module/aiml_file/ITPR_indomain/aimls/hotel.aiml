@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<category>
+<pattern>那 我 们 在 * 住 什 么 酒 店</pattern>
+<template>
+<random>
+<li>询问住宿|特指问+值未定</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>那 我 们 住 哪 里</pattern>
+<template>
+<random>
+<li>询问住宿|特指问+值未定</li>
+</random>
+</template>
+</category>
+</aiml>

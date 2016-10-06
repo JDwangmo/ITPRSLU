@@ -1,0 +1,922 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>我 想 买 手 机</pattern>
+
+<template>
+<random>
+<li>导购|开始|您好，请问您想要什么$的手机呢？</li>
+<li>导购|开始|亲，想要什么$的手机？</li>
+<li>导购|开始|您好，请问您想要什么$的手机呢？</li>
+<li>导购|开始|亲，想要什么$的手机？</li>
+<li>导购|开始|哦，想要什么$的手机呢？</li>
+<li>导购|开始|欢迎光临，想要什么$的手机呢？</li>
+<li>导购|开始|好呀，想要一款什么$的手机呢？</li>
+<li>导购|开始|您想要一款什么$的手机呢？</li>
+</random>
+</template></category>
+
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 看 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 买 一 台 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 什 么 手 机 能 推 荐</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 什 么 比 较 好 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 一 款 手 机 给 我 吧</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 一 台 手 机 给 我</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 什 么 手 机 能 卖 给 我</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 买 一 部 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 这 里 卖 手 机 吗</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 里 有 手 机 吗</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>手 机 怎 么 卖</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>卖 不 卖 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>怎 么 买 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 这 里 有 手 机 卖 吗</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 好 这 里 有 什 么 手 机 卖</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 这 里 有 没 有 智 能 手 机 买</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 们 这 里 有 什 么 手 机 卖</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 这 里 最 好 的 手 机 是 那 一 部</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 这 里 卖 什 么 牌 子 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>是 不 是 什 么 牌 子 的 手 机 都 有</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 你 这 里 最 贵 的 手 机 我 看 看</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 们 卖 不 卖 二 手 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 没 有 双 卡 双 待 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 一 部 屏 幕 适 中 的 型 号</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 摄 像 头 比 较 好 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 一 部 屏 幕 大 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 好 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 屏 幕 大 一 点 的 手 机 吗</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 内 存 大 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 一 款 性 价 比 高 的 手 机 给 我 吧</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 一 台 好 的 手 机 给 我</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 安 卓 的 手 机 吗</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 手 机 分 辨 率 高 的</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 一 部 屏 幕 比 较 大 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 一 部 性 价 比 比 较 高 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 看 一 下 这 部 三 星 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 喜 欢 屏 幕 大 一 点 的</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 喜 欢 像 素 比 较 高 的</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 喜 欢 分 辨 率 比 较 高 的</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 喜 欢 内 存 比 较 大 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 喜 欢 用 起 来 很 流 畅 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 没 有 适 合 老 人 用 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 没 有 适 合 学 生 用 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 这 里 不 会 卖 山 寨 手 机 吧</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>感 觉 好 像 那 部 手 机 好 一 点</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 没 有 黑 色 屏 幕 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 一 台 白 色 后 盖 的</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 屏 幕 比 较 大</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 挺 漂 亮 的</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 挺 好 看 的</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 一 款 好 看 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 要 一 台 好 看 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 一 台 好 用 的 手 机 给 我</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 一 款 好 用 的 手 机 吧</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>感 觉 这 手 机 用 起 来 不 是 很 流 畅 啊</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>感 觉 这 手 机 屏 幕 有 点 小</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 觉 得 这 款 屏 幕 不 大</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>看 起 来 这 手 机 没 有 那 一 部 好 看</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 手 机 的 颜 色 有 没 有 黑 色 的</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 里 有 什 么 手 机 出 售</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 里 有 什 么 款 式 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 买 新 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 买 新 款 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 什 么 新 款 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>推 荐 一 款 新 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 觉 得 这 款 手 机 有 点 贵</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 一 台 便 宜 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 便 宜 的 手 机 推 荐 吗</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 贵 一 点 的 手 机 吗</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 贵 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>有 什 么 品 牌 的 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 里 有 什 么 品 牌 的 手 机 卖</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 买</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>买 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 买 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 买 一 款 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 问 这 里 能 买 手 机 吗</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 的 手 机 是 什 么 牌 子 的</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>裸 机 是 什 么 样 子 的</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>来 一 款 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>提 供 什 么 服 务</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 会 什 么</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 做 什 么</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 能 帮 我 啥</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 帮 我 什 么</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 能 帮 我 吗</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>帮 我 挑 选 个 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>帮 帮 我 选 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>帮 我 选 一 台 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>帮 我 选 一 款 手 机 吧</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 继 续 聊 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<!--2015-05-28 添加-->
+<category>
+<pattern>给 我 介 绍 款 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 买 款 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>原 来 的 手 机 坏 了 想 换 台 新 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 一 台 新 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 要 买 个 新 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>介 绍 下 新 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 需 要 一 台 新 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 现 在 想 换 个 手 机</pattern>
+
+<template>
+<random>
+<li><srai>我 想 买 手 机</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>

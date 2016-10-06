@@ -1,0 +1,40 @@
+
+<!--模板（陈述句 ： 目的地） -->
+<template>ACTION|目的地：<star index = "2"/>
+<pattern>*我想要去*旅游*
+<pattern>*我要去*旅游*
+<pattern>*我想去*旅游*
+<pattern>*我想去*玩几天*
+<pattern>*我想去*
+<pattern>*我计划去*旅游*
+<pattern>*想来个*游*
+<pattern>*游*
+
+<template>ACTION|目的地：<star index = "1"/>
+<pattern>我想要去*旅游*
+<pattern>我想去*旅游*
+<pattern>我要去*旅游*
+<pattern>我想去*玩几天*
+<pattern>我想去*
+<pattern>我计划去*旅游*
+<pattern>*游
+<pattern>游*
+
+<!--模板（陈述句 ： 出发地-目的地）-->
+<template>ACTION|出发地：<star index = "1"/>;目的地：<star index = "2"/>
+<pattern>我从*出发去*旅游
+<pattern>从*出发去*旅游
+<pattern>从*去*旅游
+<pattern>从*去*
+
+
+<!--模板（特指问+值未定 ： 位置咨询 - 目的地）-->
+<template>位置咨询|地点：<star index = "1"/>
+<pattern>*在哪里
+<pattern>*在哪
+<pattern>*在哪儿
+
+<!--模板（特指问+值未定 ： 景点咨询 - 目的地）, e.g. 华东有哪些好玩的地方？-->
+<template>景点咨询|地点：<star index = "1"/>
+<pattern>*有哪些好玩的地方
+

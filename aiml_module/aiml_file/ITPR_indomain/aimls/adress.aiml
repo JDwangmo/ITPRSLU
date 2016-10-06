@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<category>
+<pattern>* 我 想 要 去 * 旅 游 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 我 要 去 * 旅 游 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 我 想 去 * 旅 游 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 我 想 去 * 玩 几 天 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 我 想 去 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 我 计 划 去 * 旅 游 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 想 来 个 * 游 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 游 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>我 想 要 去 * 旅 游 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>我 想 去 * 旅 游 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>我 要 去 * 旅 游 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>我 想 去 * 玩 几 天 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>我 想 去 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>我 计 划 去 * 旅 游 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 游</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>游 *</pattern>
+<template>
+<random>
+<li>ACTION|目的地：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>我 从 * 出 发 去 * 旅 游</pattern>
+<template>
+<random>
+<li>ACTION|出发地：<star index = "1"/>;目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>从 * 出 发 去 * 旅 游</pattern>
+<template>
+<random>
+<li>ACTION|出发地：<star index = "1"/>;目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>从 * 去 * 旅 游</pattern>
+<template>
+<random>
+<li>ACTION|出发地：<star index = "1"/>;目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>从 * 去 *</pattern>
+<template>
+<random>
+<li>ACTION|出发地：<star index = "1"/>;目的地：<star index = "2"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 在 哪 里</pattern>
+<template>
+<random>
+<li>位置咨询|地点：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 在 哪</pattern>
+<template>
+<random>
+<li>位置咨询|地点：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 在 哪 儿</pattern>
+<template>
+<random>
+<li>位置咨询|地点：<star index = "1"/></li>
+</random>
+</template>
+</category>
+<category>
+<pattern>* 有 哪 些 好 玩 的 地 方</pattern>
+<template>
+<random>
+<li>景点咨询|地点：<star index = "1"/></li>
+</random>
+</template>
+</category>
+</aiml>

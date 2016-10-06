@@ -1,0 +1,1254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>你 好 机 器 人</pattern>
+
+<template>
+<random>
+<li>闲聊|问候|您好！</li>
+<li>闲聊|问候|请问需要了解什么？</li>
+<li>闲聊|问候|有什么可以帮到您的：）</li>
+<li>闲聊|问候|您好，Ch2R为您服务！</li>
+<li>闲聊|问候|亲，Ch2R为您提供专业的导购服务，记得好评哟！</li>
+<li>闲聊|问候|很高兴为您服务！</li>
+<li>闲聊|问候|您好，请问您想要什么$的手机呢？</li>
+<li>闲聊|问候|亲，想要什么$的手机？</li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>机 器 人 你 好</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>c h 2 r 你 好</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 好</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>您 好</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>在 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>店 家 在 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>近 来 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗨 你 过 得 愉 快 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗨 哈 罗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>近 况 如 何</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗨 幸 会</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>很 高 兴 见 到 你</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>喵</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>汪</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗨</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>来 买 手 机</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>早 上 好</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>中 午 好</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>晚 上 好</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>晚 安</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>么 么 哒</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>最 近 怎 么 样</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>最 近 忙 不 忙</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>吃 饭 了 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>最 近 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 好 很 高 兴 能 认 识 你</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 在 做 什 么 呢</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>工 作 忙 不 忙 呀</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>吃 过 饭 了 没 有</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>最 近 身 体 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 和 你 聊 天</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>聊 天 可 以 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 好 在 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>午 安</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>亲 爱 的 晚 安</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嗨 近 来 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>过 得 如 何 呀</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 起 都 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>节 日 快 乐</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>快 乐</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 句 温 馨 的 问 候 一 个 轻 轻 的 拥 抱 一 个 浪 漫 的 小 插 曲 都 能 给 人 一 种 清 新 愉 悦 的 感 受 就 向 一 股 暖 流 流 入 心 底</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>春 风 向 树 木 问 好 花 儿 向 人 们 问 好 五 谷 向 闲 田 问 好 有 谁 懂 年 复 一 年 忙 碌 的 背 后 是 被 忽 略 的 问 候 与 祝 福</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>感 谢 所 有 忙 碌 着 关 注 着 我 的 朋 友 感 谢 生 命 中 经 历 的 每 一 次 问 候 与 祝 福 愿 你 们 每 天 都 平 安 祥 和 幸 福</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>在 内 心 深 处 总 有 一 个 身 影 徘 徊 总 有 一 个 声 音 问 候 无 论 何 时 想 起 温 暖 随 时 都 能 感 应</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>问 候 远 方 的 朋 友 ： 多 一 些 开 心 少 一 些 烦 恼 时 时 好 心 情 便 用 点 滴 的 问 候 想 抚 平 你 一 点</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>很 久 很 久 你 欠 了 我 的 一 声 问 候 哪 怕 只 是 短 短 的 一 两 句 寒 暄</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>所 有 的 思 念 抵 不 过 一 个 微 笑 所 有 的 忧 愁 只 需 要 一 个 问 候 有 雨 的 夜 最 美 那 是 来 自 天 使 的 问 候</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>亲 爱 的 朋 友 原 谅 我 渐 渐 少 去 的 问 候 有 一 种 感 情 不 再 浓 烈 却 一 直 存 在 我 们 不 能 时 时 在 身 边 好 像 电 话 短 信 也 少 了 我 们 不 能 第 一 时 间 分 享 彼 此 的 快 乐 与 不 快 乐 好 像 变 的 冷 漠 沉 默 了 可 是 如 果 有 一 天 我 们 再 遇 见 亲 爱 的 那 当 初 的 一 切 不 会 变</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>早 上 好 阳 光 为 你 烘 烤 温 暖 的 味 道 问 候 为 你 带 来 快 乐 的 奇 妙 清 新 的 早 晨 希 望 我 的 一 条 短 信 给 你 一 天 简 单 而 充 实 的 幸 福 早 上 好</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>祝 您 节 日 愉 快</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 在 干 嘛 你 在 干 嘛</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 吃 饭 没 有</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>吃 饭 了 没 有</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 吃 饭 了 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 你 开 心 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 开 心 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 今 天 开 心 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 现 在 开 心 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 过 得 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 过 的 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>喂 喂 你 开 心 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>握 手</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>握 个 手 吧</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<!--2015-05-27 添加-->
+<category>
+<pattern>阿 姨</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>阿 姨 你 好</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>叔 叔</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>叔 叔 你 好 打 扰 了</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>寒 风 吹 祝 福 到 我 的 关 怀 是 阳 光 温 暖 你 心 窝 ； 孤 单 时 祝 福 到 我 的 问 候 是 惦 念 消 除 你 寂 寞 ； 手 机 响 祝 福 到 我 的 祝 福 是 希 望 愿 你 幸 福 美 好</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 问 您 贵 姓</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哎 又 过 了 一 天</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>别 跟 我 谈 感 情</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>祝 你 幸 福 快 乐</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>欢 迎 你 光 临 指 导</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 若 安 好 便 是 晴 天</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>太 阳 选 择 月 亮 忙 碌 一 周 的 你 感 觉 累 吗 要 好 好 休 息 希 望 我 的 祝 福 能 驱 散 你 平 日 的 辛 劳</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>微 笑 将 祝 福 传 递 喜 悦 将 幸 福 传 送 问 候 温 馨 更 暖 心 祝 福 情 真 意 更 真 画 个 快 乐 大 圈 圈 年 年 岁 岁 保 佑 你</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>落 叶 知 秋 情 谊 如 酒 风 渐 凉 时 无 喜 更 无 忧 岁 月 流 走 蓦 然 回 首 一 声 问 候 醇 绵 依 旧 友 情 相 守 不 离 左 右 含 笑 送 出 这 份 问 候 ： 季 节 交 替 注 意 身 体</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>距 离 有 短 有 长 不 论 短 长 都 铺 满 着 我 的 思 念 ； 短 信 有 短 有 长 不 论 短 长 都 充 盈 着 我 的 挂 牵 ； 祝 福 有 短 有 长 不 论 短 长 都 代 表 着 我 的 心 愿 ： 祝 你 快 乐 天 天</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>凉 风 飞 舞 着 祝 福 轻 轻 送 上 真 挚 的 问 候 ： 愿 快 乐 伴 随 清 凉 一 夏</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>路 共 同 欣 赏 才 风 景 美 丽 ； 情 互 相 交 流 才 更 加 真 切 问 个 好 情 谊 永 在 祝 你 心 情 愉 快</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>朋 友 愿 你 飞 过 辽 阔 的 天 空 穿 过 无 边 的 旷 野 越 过 璀 璨 的 星 河 直 到 矗 立 在 彩 虹 之 巅</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>送 你 一 串 祝 福 浇 灌 你 幸 福 的 生 活</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 请 你 做 到 以 下 三 点 ： 一 定 要 成 功 一 定 要 快 乐 一 定 要 幸 福</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>下 雨 就 撑 伞 流 感 就 预 防 生 活 没 有 什 么 过 不 去 的 坎 人 就 是 要 给 点 阳 光 就 灿 烂</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 夏 天 真 心 祝 愿 ： 大 树 庇 护 你 烈 日 让 着 你 微 风 向 着 你 暴 雨 躲 着 你 爱 人 由 着 你 邻 居 帮 着 你 朋 友 记 着 你 中 奖 5 0 0 万 的 只 有 你</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>春 天 有 梦 一 般 的 花 ； 春 天 有 花 一 般 的 梦 春 天 到 了 ！ 愿 你 的 梦 像 美 丽 的 花 ； 愿 你 心 中 的 花 像 美 丽 的 梦</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>风 吹 散 了 蒲 公 英 的 思 绪 把 它 的 希 望 带 到 了 远 方 ； 在 哪 里 梦 里 有 了 生 命 力 在 哪 里 渴 望 变 得 坚 强 ； 每 一 个 执 着 的 人 啊 去 奋 斗 吧 为 了 路 上 的 远 方</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>拉 长 幸 福 的 直 线 让 开 心 的 笑 容 伴 随 左 右 让 快 乐 的 生 活 陪 伴 身 旁 让 工 作 有 活 力 让 事 业 有 激 情 愿 你 事 事 都 如 意 万 事 都 顺 心</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 的 歌 声 抒 发 了 我 美 好 的 理 想 我 的 琴 音 凝 集 了 你 无 限 的 向 往 愿 我 们 合 奏 一 首 幸 福 曲</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>朋 友 当 永 放 心 头 永 不 相 忘 ； 朋 友 当 共 荣 辱 当 同 患 难 ； 友 谊 如 流 水 不 因 石 而 阻 不 因 远 而 疏 朋 友 祝 你 有 个 好 心 情 哦</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>清 晨 的 美 好 就 如 青 草 般 芳 香 如 河 溪 般 清 澈 如 玻 璃 般 透 明 如 甘 露 般 香 甜 亲 爱 的 朋 友 早 上 好 愿 你 今 天 有 个 好 心 情</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>亲 祝 你 好 运</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>亲 开 心 点 哦</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>情 动 三 江 水 诚 感 五 岳 山 心 愿 传 千 里 祝 福 送 吉 祥 好 运 常 相 伴 幸 福 展 笑 颜 开 心 更 快 乐 人 旺 万 事 顺</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>劝 你 一 句 老 朋 友 ： 别 忘 了 乐 极 生 悲 这 句 话 ！ 但 愿 你 一 切 都 好</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>愿 你 拥 有 ： 春 天 的 歌 欢 快 夏 天 的 心 火 热 秋 天 的 意 深 厚 冬 天 的 情 纯 真 在 未 来 的 人 生 旅 途 中 永 远 保 持 你 自 己</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>愿 如 梦 的 幻 想 消 融 在 天 边 的 彩 霞 里 ； 愿 青 鸟 衔 起 我 俩 飞 向 生 活 的 绿 洲</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>愿 甜 蜜 伴 你 度 过 一 天 中 的 每 一 时 愿 平 安 同 你 走 过 一 时 中 的 每 一 分 愿 快 乐 陪 你 度 过 一 分 中 的 每 一 秒</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>早 晨 清 凉 的 空 气 如 牛 乳 般 新 鲜 冉 起 的 太 阳 如 梦 想 般 希 望 天 明 亮 起 的 不 只 是 阳 光 还 要 有 你 的 好 心 情 哦 早 安</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>早 上 好 一 束 阳 光 照 在 身 祝 你 天 天 都 开 心 财 神 家 中 去 梦 想 变 成 真 今 天 中 大 奖 明 天 去 上 任 朋 友 的 祝 福 全 都 是 真 心</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>睁 开 眼 缓 一 缓 ； 快 起 床 伸 懒 腰 ； 笑 一 笑 美 好 的 一 天 又 开 始 了 早 安 祝 你 今 天 好 心 情 工 作 顺 利 生 活 甜 美</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>衷 心 祝 福 ： 上 帝 保 佑 你 ！ 彩 票 关 心 你 ！ 菩 萨 爱 护 你 ！ 要 云 得 云 要 雨 得 雨 ！ 花 天 酒 地 黄 金 遍 地</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>祝 你 天 天 拥 有 ： 蓬 勃 的 激 情 雄 壮 的 豪 情 执 着 的 热 情 甜 美 的 爱 情 洒 脱 的 表 情 爽 朗 的 神 情 愉 快 的 心 情</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>神 说 ： 幸 福 是 有 一 颗 感 恩 的 心 健 康 的 身 体 称 心 的 工 作 一 位 深 爱 你 的 人 一 帮 信 赖 的 朋 友 你 会 拥 有 这 一 切 ！ 祝 圣 诞 快 乐</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>做 朋 友 的 绝 对 不 会 忘 了 你 ！ 送 给 你 最 真 的 祝 福 让 你 有 个 暖 暖 的 圣 诞 节 感 动 了 吧 ！ 虽 然 只 有 3 块 钱 但 也 是 个 很 棒 的 礼 物</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>早 上 好 、 下 午 好 、 晚 上 好 、 您 好 、 请 多 多 指 教 、 请 多 关 照</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>谢 谢 、 劳 驾 了 、 让 您 费 心 了 、 实 在 过 意 不 去 、 麻 烦 您 、 感 谢 您 的 帮 助</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>对 不 起 、 请 原 谅 、 不 用 谢 、 没 关 心 、 请 不 要 放 在 心 上</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>风 面 语 ： 早 上 好 、 下 午 好 、 晚 上 好 、 您 好 、 请 多 多 指 教 、 请 多 关 照</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>感 谢 语 ： 谢 谢 、 劳 驾 了 、 让 您 费 心 了 、 实 在 过 意 不 去 、 麻 烦 您 、 感 谢 您 的 帮 助</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>致 歉 语 ： 对 不 起 、 请 原 谅 、 不 用 谢 、 没 关 心 、 请 不 要 放 在 心 上</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>告 别 语 ： 再 见 、 欢 迎 再 来 、 祝 您 一 路 顺 风 、 请 再 来</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>征 询 语 ： 需 要 我 帮 忙 嘛 、 我 能 为 你 做 些 什 么 嘛</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>问 候 语 ： 您 好 ！ 欢 迎 光 临 里 面 请 您 请 坐</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>您 好 帮 您 把 外 套 挂 一 下 我 把</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>您 的 包 放 在 这 里 了</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 好 等 我 问 清 楚 了 再 过 来 答 复 您 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>对 不 起 我 没 挺 清 楚 您 说 的 话 请 再 重 复 一 遍 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 问 您 喝 点 什 么 我 们 这 有 茶 水 、 饮 料 、 豆 浆 、 酸 梅 汤 好 的 请 稍</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>等 ！ 请 用 茶 请 喝 豆 浆</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>祝 大 家 心 想 事 成 万 事 如 意</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 慢 用</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>您 好 您 看 还 有 什 么 需 要 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>您 好 ！ 请 问 您 对 我 们 的 服 务 有 没 有 什 么 意 见 或 建 议 谢 谢 您</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 带 好 您 的 随 身 物 品 请 慢 走 ！ 谢 谢 光 临 希</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>望 下 次 还 能 为 您 服 务</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>您 好 打 扰 一 下 帮 您 加 点 水 ！ 你 好 打 扰 一 下 帮 你 加 点 汤</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>打 扰 一 下 帮 您 换 下 骨 碟</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>您 好 打 扰 一 下 帮 您 换 下 烟 缸 ！ 您 好 帮 您 清 理 下 台 面</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>您 好 打 扰 一 下 帮 您 罩 一 下 衣 罩</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>您 好 这 是 我 们 点 的 X X 菜 给 您 分 一 下 好 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>您 好 您 看 这 个 菜 可 以 给 您 合 一 下 盘 吗</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 好 您 点 的 X X 菜 现 在 已 经 买 完 了 您 看 还 有 X X 菜 和 这 道 菜 口 味 相 似 您 要 不 要 来 一 份</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 梦</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>早 上 （ 下 午 、 晚 上 ） 好 先 生 （ 夫 人 ）</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>虽 然 烈 日 炎 炎 周 一 还 得 上 班 高 温 令 人 疲 倦 要 与 快 乐 连 线 见 人 面 带 微 笑 好 运 与 你 触 电 ； 懒 散 情 绪 抛 开 精 神 焕 发 容 颜 ； 烦 恼 莫 放 心 头 潇 洒 自 然 相 见 周 一 问 候 给 力 再 忙 再 累 也 要 心 情 美 丽 开 心 面 对</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>送 上 一 条 解 乏 短 信 愿 你 周 一 早 晨 精 精 神 神 起 床 上 班 不 再 痛</pattern>
+
+<template>
+<random>
+<li><srai>你 好 机 器 人</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>

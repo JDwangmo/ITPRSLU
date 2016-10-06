@@ -1,0 +1,1942 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+<!--2015-05-22 新建-->
+<category>
+<pattern>不 可 以 这 样</pattern>
+
+<template>
+<random>
+<li>捣乱|骂人|请您使用文明用语，传承中华民族传统美德！</li>
+<li>捣乱|骂人|你，好坏哦！</li>
+<li>捣乱|骂人|亲，说粗口的孩子不是好孩子哦</li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>快 住 口</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 说 错 了</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>停 一 下</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>打 扰 一 下</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 们 住 嘴</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 们 闭 嘴</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 们 给 我 安 静 点</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>保 持 安 静 不 许 讲 话</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>轮 到 我 讲 话 了 你 们 停 一 下</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>打 扰 你 们 一 下 到 某 地 的 路 怎 么 走</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 刚 刚 讲 错 了</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>停 停 停</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>别 动 举 起 手 来</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>安 静 安 静</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 也 要</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 以 给 我 么</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 好 意 思 打 扰 一 下</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>嘿 我 的 呢</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>喂 怎 么 没 我 的 份</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>停 怎 么 把 我 给 忘 了</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>八 嘎 牙 路</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>混 蛋</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 们 好 过 分</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 我 停 一 下</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>呵 呵</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 伤 人 的 话 啊</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 妹</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>妹 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 丫 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>丫 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>尼 玛</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>贱 人 住 嘴</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>靠 靠 靠</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 去</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>去 你 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>麻 痹</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哎 呀 呀</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>给 我 滚</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>滚 滚 滚</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>过 分</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>艹 草</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 草</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>变 态</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>流 氓</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>傻 逼</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>屌</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 好 屌</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>屌 丝</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 个 屌 丝</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 傻 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>煞 笔</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>杀 马 特</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>什 么 鬼</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>都 给 我 住 嘴</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>够 了</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>神 经</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>人 渣</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>神 经 病</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>莫 名 其 妙 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>说 清 楚 点</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>哎 呀 呀 有 种 再 说 一 句</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 可 以</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>闭 嘴</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>无 语</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>废 话</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 他 妈 废 话 啊</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 然 还 想 怎 样</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 勒 个 去</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 还 想 怎 样</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 过 分</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 理 你 了</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 插 句 话 行 不</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>打 断 一 下 你 们 的 对 话</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>先 听 我 说 一 句</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 有 病 啊</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>那 件 事 怎 么 说 来 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>混 账</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>狗 日 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 个 狗 日 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>低 能</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>低 能 儿</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>弱 智</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>逗 逼</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 真 逗 逼</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>二 逼</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>2 b</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>2 B</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>妈 B</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>妈 逼</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>妈 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>能 再 说 一 遍 么</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>尼 玛 我 对 你 无 语 了</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>贱 人 你 刚 刚 说 什 么 来 着</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>废 话 不 要 讲 那 么 多 给 点 实 际 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>流 氓 能 说 点 好 听 的 么</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>变 态 老 是 讲 那 些 东 西</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>傻 逼 听 不 懂 我 刚 刚 说 什 么 了 啊</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 刚 刚 说 的 话 很 莫 名 其 妙 诶</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>够 了 ！ 刚 才 的 话 把 我 惹 火 了</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 用 再 多 说 了 我 都 明 白 了</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 有 病 啊 前 言 不 搭 后 语 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>停 下 来 听 我 讲 句 话 行 不 行</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>靠 讲 的 话 那 么 难 听</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 对 你 十 分 无 语 不 想 再 听 你 说 话 了</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 妹 啊 明 明 不 是 我</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 现 在 不 想 听 你 讲 话 给 我 滚</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>顶 顶 顶 、 顶 顶 顶 、 顶 顶 顶</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>去 死 、 去 死 、 去 死</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>去 死 把</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 家 是 什 么 时 候 装 修 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 们 什 么 时 候 来 到 这 里 的</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>迷 路 了 怎 么 办</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 迷 路 了</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 要 去 哪 里</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 去 哪 里</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>喂 你 要 去 哪 里</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 要 去 哪 里 呀</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 本 书 好 不 好 看</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 钱 包 掉 了 能 借 点 钱 给 我 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 说 那 支 队 伍 会 赢 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 不 要 一 起 去 跑 步</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>请 我 吃 饭 好 不 好</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 还 有 什 么 问 题 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>带 我 去 学 校 好 不 好</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>要 不 要 一 起 去 逛 街</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 起 吃 顿 饭 吧</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>能 顺 路 载 我 一 程 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>身 体 不 舒 服 怎 么 办 啊</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 喜 欢 那 件 衣 服 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>可 以 载 我 一 程 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>打 篮 球 的 男 生 特 别 帅 你 喜 欢 打 篮 球 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 无 聊 啊</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 是 什 么 关 系</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>用 一 个 词 来 形 容 我</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>中 国 大 还 是 美 国 大 啊</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 会 背 诗 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 怎 么 那 么 笨</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 加 一 等 于 多 少</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>夸 我 一 句</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>好 无 聊 呀</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 知 道 华 南 农 业 大 学 在 哪 里 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>帮 我 倒 杯 水 可 以 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 会 不 会 讲 故 事 啊</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 个 词 来 形 容 一 下 我</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 看 得 到 我 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 看 得 到 他 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 有 没 有 看 过 这 本 书</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 本 书 很 好 看</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>教 我 好 不 好</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 确 定 到 底 要 哪 一 本 书</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 认 不 认 识 百 度 公 司 的 创 造 人</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 觉 得 我 帅 不 帅</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>那 么 你 觉 得 她 漂 亮 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 居 然 不 知 道 韩 红 是 谁</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 觉 得 她 体 重 是 多 少</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>今 天 充 电 了 么 机 器 人</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 能 帮 我 抢 生 意 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 会 帮 我 做 作 业 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>尼 姑 用 广 州 话 怎 么 读</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>快 回 到 属 于 你 的 地 方</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>大 家 视 你 为 仇 敌</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 不 该 来 到 这 个 世 界 上</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 知 道 这 是 什 么 歌 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 不 是 能 算 出 来 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>香 辣 鸡 翅 好 吃 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>能 勾 搭 你 么</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>为 什 么 会 生 病</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 想 知 道 我 什 么 时 候 能 有 女 朋 友</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>什 么 时 候 能 有 女 朋 友</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 会 不 会 生 锈</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>老 子 热 死 了</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 预 测 一 下 悟 空 的 发 挥 吧</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>干 炒 牛 河 怎 么 做 呀</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>夜 宵 怎 么 解 决</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>宵 夜 怎 么 解 决</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 能 预 测 奥 运 会 中 国 队 能 拿 多 少 金 牌 吗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 为 什 么 会 生 病</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>调 戏</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>调 教</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>挑 逗</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 要 调 戏 我</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 要 挑 逗 我</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>笑 一 个</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>喵</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>非 天 仙 非 妖 魔 确 能 长 的 如 此 美 丽 世 间 甚 是 少 见</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 没 有 说 谎</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 没 有 找 借 口</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 是 非 主 流 事 件</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>非 主 流 英 语 句 子 没 意 义</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>不 见 去 年 人 景 物 却 依 旧 物 是 人 非</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 不 喜 欢 在 这 种 恶 劣 的 天 气 下 旅 行</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>非 萝 莉 非 萌 妞</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>非 潘 安 非 宋 玉</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>非 勇 敢 非 好 汉 非 泼 辣 非 辣 妹</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>非 地 震 后 没 有 一 栋 房 子 不 倒 塌</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 们 在 过 去 十 年 内 连 一 面 都 没 有 见 过</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>错 不 全 在 我</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>姊 妹 两 并 非 都 在 这 里</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>非 法 入 侵 行 为 不 值 得 提 倡</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>两 条 路 都 不 是 通 往 车 站</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>他 们 都 不 是 我 昨 晚 见 到 的 那 个 人</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 般 学 生 都 无 法 回 答 这 个 问 题</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>一 般 学 生 都 无 法 解 决 这 个 问 题</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 穷 孩 子 没 有 一 件 新 衣 服</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 个 穷 孩 子 无 新 衣 服 穿</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>你 不 是 对 句 中 定 语 的 否 定</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>句 中 的 否 定 词 没 有 作 谓 语 中 心 语</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>这 药 非 处 方 药</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>我 谈 恋 爱 的 原 则 非 诚 勿 扰</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>非 也 ！ 我 不 喜 欢 这 糖 果</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<!--2015-05-27 添加-->
+<category>
+<pattern>起 床 是 会 呼 吸 的 痛 挣 扎 在 每 个 细 胞 中</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>定 闹 钟 会 痛 不 定 闹 钟 也 会 痛 ； 闹 钟 响 会 痛 闹 钟 不 响 也 会 痛 ； 被 叫 醒 会 痛 叫 不 醒 也 会 痛 ； 起 床 会 痛 不 起 床 也 会 痛</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>华 丽 的 外 表 往 往 掩 盖 着 肮 脏 的 灵 魂 偶 像 派 的 明 星 还 有 追 星 族 的 傻 逼 们</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+<category>
+<pattern>炎 炎 的 烈 日 足 以 拷 问 丑 恶 的 内 心 辛 苦 的 工 作 可 暂 忘 浮 浅 的 思 春</pattern>
+
+<template>
+<random>
+<li><srai>不 可 以 这 样</srai></li>
+</random>
+</template></category>
+<!-- 分割线 -->
+</aiml>
