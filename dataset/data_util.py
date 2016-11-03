@@ -21,7 +21,8 @@ class DataUtil(object):
             sights = json.load(fin)
             # print(len(sights))
             topn_sights = sorted(sights.itervalues(),key=lambda x:x['sight_rating'])[-topn:]
-            topn_sight_names = ['%s,%s'%(item['sight_name'],item['sight_rating']) for item in topn_sights]
+            # topn_sight_names = ['%s,%s'%(item['sight_name'],item['sight_rating']) for item in topn_sights]
+            topn_sight_names = ['%s'%(item['sight_name']) for item in topn_sights]
             print('\n'.join(topn_sight_names))
 
 
@@ -29,4 +30,4 @@ class DataUtil(object):
 
 if __name__ == '__main__':
     data_util = DataUtil()
-    data_util.get_topn_sight(10)
+    data_util.get_topn_sight(1100)

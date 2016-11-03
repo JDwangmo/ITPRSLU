@@ -1,0 +1,22 @@
+2016-07-07 15:58:38,153 : INFO : Pattern library is not installed, lemmatization won't be available.
+2016-07-07 15:58:38,243 : DEBUG : Fast version of gensim.models.word2vec is being used
+2016-07-07 15:58:38,245 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2016-07-07 15:58:38,248 : INFO : 'pattern' package not found; tag filters are not available for English
+127.0.0.1:56916 - - [07/Jul/2016 15:59:07] "HTTP/1.1 GET /corprocessor/response/rawInput=你好&context=(.*)&relatedParam=(.*)&candiate=(.*)" - 200 OK
+127.0.0.1:56916 - - [07/Jul/2016 15:59:08] "HTTP/1.1 GET /corprocessor/response/rawInput=你好&context=(.*)&relatedParam=(.*)&candiate=(.*)" - 200 OK
+127.0.0.1:56916 - - [07/Jul/2016 15:59:08] "HTTP/1.1 GET /corprocessor/response/rawInput=你好&context=(.*)&relatedParam=(.*)&candiate=(.*)" - 200 OK
+127.0.0.1:56916 - - [07/Jul/2016 15:59:08] "HTTP/1.1 GET /corprocessor/response/rawInput=你好&context=(.*)&relatedParam=(.*)&candiate=(.*)" - 200 OK
+127.0.0.1:56916 - - [07/Jul/2016 15:59:10] "HTTP/1.1 GET /corprocessor/response/rawInput=你好&context=(.*)&relatedParam=(.*)&candiate=(.*)" - 200 OK
+Building prefix dict from the default dictionary ...
+2016-07-07 18:04:44,310 : DEBUG : Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+2016-07-07 18:04:44,310 : DEBUG : Loading model from cache /tmp/jieba.cache
+Loading model cost 0.259 seconds.
+2016-07-07 18:04:44,569 : DEBUG : Loading model cost 0.259 seconds.
+Prefix dict has been built succesfully.
+2016-07-07 18:04:44,570 : DEBUG : Prefix dict has been built succesfully.
+127.0.0.1:59951 - - [07/Jul/2016 18:04:44] "HTTP/1.1 GET /corprocessor/response/rawInput=你 好&context=(.*)&relatedParam=(.*)&candiate=(.*)" - 200 OK
+127.0.0.1:59952 - - [07/Jul/2016 18:04:55] "HTTP/1.1 GET /corprocessor/response/rawInput=你好&context=(.*)&relatedParam=(.*)&candiate=(.*)" - 200 OK
+127.0.0.1:60374 - - [07/Jul/2016 18:34:35] "HTTP/1.1 GET /corprocessor/response/rawInput=adsfasd&context=(.*)&relatedParam=(.*)&candiate=(.*)" - 200 OK
+127.0.0.1:60377 - - [07/Jul/2016 18:34:51] "HTTP/1.1 GET /corprocessor/response/rawInput=adsfasd和科技&context=(.*)&relatedParam=(.*)&candiate=(.*)" - 200 OK
+127.0.0.1:60377 - - [07/Jul/2016 18:34:54] "HTTP/1.1 GET /corprocessor/response/rawInput=adsfasd和科技&context=(.*)&relatedParam=(.*)&candiate=(.*)" - 200 OK
